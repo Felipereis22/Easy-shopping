@@ -7,8 +7,10 @@
 
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" ></p>
 <p><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></p>
-
-<img src="https://github.com/Felipereis22/Easy-shopping/blob/main/assets/Desktop.png?raw=true">
+<br>
+<br>
+<h3>- E esse foi o resultado :</h3>
+<img src="https://github.com/Felipereis22/Easy-shopping/blob/main/assets/Mobile_-_ilustrativo_do_Easy_shopping.png?raw=true">
 <br>
 <br>
 <img src="https://github.com/Felipereis22/Easy-shopping/blob/main/assets/Mobile.png?raw=true">
