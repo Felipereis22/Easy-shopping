@@ -13,4 +13,5 @@
 <img src="https://github.com/Felipereis22/Easy-shopping/blob/main/assets/Mobile_-_ilustrativo_do_Easy_shopping.png?raw=true">
 <br>
 <br>
-<img src="https://github.com/Felipereis22/Easy-shopping/blob/main/assets/Mobile.png?raw=true">
+<img src="https://github.com/Felipereis22/Easy-shopping/blob/main/assets/Desktop%20-%20ilustrativo%20do%20Easy%20shopping.png?raw=true">
+
